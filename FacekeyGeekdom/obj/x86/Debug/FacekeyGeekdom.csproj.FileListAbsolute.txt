@@ -1,0 +1,15 @@
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\bin\Debug\FacekeyGeekdom.exe
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\bin\Debug\FacekeyGeekdom.pdb
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.AdminForm.resources
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.Properties.Resources.resources
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.exe
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.pdb
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.csproj.ResolveComReference.cache
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.Settings.resources
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\FacekeyGeekdom\FacekeyGeekdom\obj\x86\Debug\FacekeyGeekdom.User.resources
