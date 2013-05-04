@@ -13,7 +13,7 @@ namespace FacekeyGeekdom
     {
         private AdminForm admin;
         private GeekdomAPI api = new GeekdomAPI();
-        private string api_key = "RZSOY7O0FSAO65NZYF68W2OZ4BDBRBJY";
+        private string api_key = "";
 
         private string username;
         private int user_id;
